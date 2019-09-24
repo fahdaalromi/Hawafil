@@ -12,7 +12,7 @@ import {
 
 // or any pure javascript modules available in npm
 //import { Card } from 'react-native-paper';
-export default class App extends React.Component {
+export default class Login extends React.Component {
   UNSAFE_componentWillMount(){
     var config = {
       apiKey: "AIzaSyAtpvd_8Vhp9mLX8zOKmQrrQflrzURbEgk",
